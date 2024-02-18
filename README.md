@@ -1,6 +1,6 @@
 <h1 align="center">Привет &#128075; меня зовут Максим</h1>
 
-<p align="center">Я – Front-end Developer с опытом работы в разработке веб-приложений на Vue.js и Nuxt.js. Горжусь успешными проектами и постоянно развиваю свои навыки в сфере веб-технологий.</p>
+<p align="center">Я – Front-end Developer с опытом разработки веб-приложений на Vue.js и Nuxt.js. Горжусь успешными проектами и постоянно развиваю свои навыки в сфере веб-технологий.</p>
 
 <div id="badges-connection" align="center">
   <h3 id="header-connection" >Связаться со мной</h3>
