@@ -29,7 +29,7 @@
 
 <div id="stack">
   <img id="stack-img" src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./images/scss3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/css3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./images/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./images/nuxt-original.svg" title="Nuxt.js" alt="Nuxt.js" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./images/tailwind-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50px" height="50px">&nbsp
@@ -42,6 +42,7 @@
   <img id="stack-img" src="./images/git-original.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./images/docker-original.svg" title="Docker" alt="Docker" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./images/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50px" height="50px">&nbsp
 </div>
 
 ---
