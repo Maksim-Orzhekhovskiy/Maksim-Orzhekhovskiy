@@ -30,8 +30,10 @@
 <div id="stack">
   <img id="stack-img" src="./image/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/css3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/nuxt-original.svg" title="Nuxt.js" alt="Nuxt.js" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/tailwind-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/sass-original.svg" title="Sass\Scss" alt="Sass\Scss" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/styled-components.svg" title="Styled components" alt="Styled components" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/webpack-original.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/nodejs-original.svg" title="Node.js" alt="Node.js" width="50px" height="50px">&nbsp
@@ -39,6 +41,7 @@
   <img id="stack-img" src="./image/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/git-original.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
   <img id="stack-img" src="./image/docker-original.svg" title="Docker" alt="Docker" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="50px" height="50px">&nbsp
 </div>
 
 ---
