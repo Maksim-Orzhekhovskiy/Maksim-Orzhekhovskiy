@@ -1,7 +1,7 @@
 
 
 <div id="views-counter" align="center">
-  <img src="https://hit.yhype.me/github/profile?user_id=113233705&style=flat-square&color=brightgreen" alt="Views counter">
+ ![](https://hit.yhype.me/github/profile?user_id=113233705)
 </div>
 
 <h1 align="center">Привет &#128075; меня зовут Максим</h1>
