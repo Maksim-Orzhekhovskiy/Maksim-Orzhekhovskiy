@@ -28,20 +28,20 @@
 ### :hammer_and_wrench: Используемый стек и инструменты:
 
 <div id="stack">
-  <img id="stack-img" src="./image/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/css3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/nuxt-original.svg" title="Nuxt.js" alt="Nuxt.js" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/tailwind-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/sass-original.svg" title="Sass\Scss" alt="Sass\Scss" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/webpack-original.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/nodejs-original.svg" title="Node.js" alt="Node.js" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/express-original.svg" title="Express" alt="Express" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/git-original.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/docker-original.svg" title="Docker" alt="Docker" width="50px" height="50px">&nbsp
-  <img id="stack-img" src="./image/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./image/scss3-original.svg" title="CSS3" alt="CSS3" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/nuxt-original.svg" title="Nuxt.js" alt="Nuxt.js" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/tailwind-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/sass-original.svg" title="Sass\Scss" alt="Sass\Scss" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/nodejs-original.svg" title="Node.js" alt="Node.js" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/express-original.svg" title="Express" alt="Express" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/git-original.svg" title="Git" alt="Git" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/docker-original.svg" title="Docker" alt="Docker" width="50px" height="50px">&nbsp
+  <img id="stack-img" src="./images/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="50px" height="50px">&nbsp
 </div>
 
 ---
